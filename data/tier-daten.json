@@ -1,0 +1,484 @@
+{
+    "version": "0.3.0",
+    "data": {
+        "trips": [
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "1c8b3f2e-0fd6-4a09-b3f4-1b0c33ffd2b5",
+                "vehicle_id": "220658",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "dff1957d-3b9f-598b-94db-38fefdc1cd6d",
+                "trip_duration": 360,
+                "trip_distance": 1800,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.322721,
+                                    52.509166
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580570769000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.306756,
+                                    52.508857
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571077000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580570769000,
+                "end_time": 1580571077000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "f28cfd4e-f440-432d-b05b-43592996291a",
+                "vehicle_id": "226960",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "5a82167f-bbfe-580a-ad74-c20bdc43aea4",
+                "trip_duration": 60,
+                "trip_distance": 300,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.439844,
+                                    52.509606
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580570789000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.43981,
+                                    52.509418
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580570836000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580570789000,
+                "end_time": 1580570836000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "9033c4ac-ce5a-4106-9bca-ea0ac830688b",
+                "vehicle_id": "222843",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "93553946-87b6-530c-b173-8b31ff715cd8",
+                "trip_duration": 540,
+                "trip_distance": 2700,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.300209,
+                                    52.517598
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580570798000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.296892,
+                                    52.509602
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571281000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580570798000,
+                "end_time": 1580571281000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "f28cfd4e-f440-432d-b05b-43592996291a",
+                "vehicle_id": "226960",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "c5456ba2-6334-5019-9669-7787936dd060",
+                "trip_duration": 600,
+                "trip_distance": 3000,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.439529,
+                                    52.509494
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580570864000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.428983,
+                                    52.522329
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571409000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580570864000,
+                "end_time": 1580571409000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "530132d9-db8f-4f67-aa4c-194ca2e1304c",
+                "vehicle_id": "222272",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "d7fee436-452d-5b93-b74e-9923e506e670",
+                "trip_duration": 1200,
+                "trip_distance": 6000,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.368425,
+                                    52.525783
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571067000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.363039,
+                                    52.529162
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580572264000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580571067000,
+                "end_time": 1580572264000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "3659967d-ca11-4437-8a31-bd310a76108c",
+                "vehicle_id": "221977",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "0dc4116f-16ac-54e6-bd82-c75954df547e",
+                "trip_duration": 540,
+                "trip_distance": 2700,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.341987,
+                                    52.501374
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571185000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.335731,
+                                    52.504647
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571698000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580571185000,
+                "end_time": 1580571698000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "ed930c09-a7f1-4564-b71e-6f6834087abc",
+                "vehicle_id": "249017",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "60e5bd3a-7afa-5851-9b2c-47423b208a68",
+                "trip_duration": 360,
+                "trip_distance": 1800,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.427617,
+                                    52.517679
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571203000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.416095,
+                                    52.520593
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571513000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580571203000,
+                "end_time": 1580571513000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "8a110435-a593-4570-a958-0c1a419d49f4",
+                "vehicle_id": "225092",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "1cec67d9-45db-547e-b487-90fbd5646044",
+                "trip_duration": 480,
+                "trip_distance": 2400,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.343018,
+                                    52.501885
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571246000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.335828,
+                                    52.504651
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571674000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580571246000,
+                "end_time": 1580571674000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "68639869-46a4-4143-a3f1-bb9a382171ac",
+                "vehicle_id": "224087",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "d483c70e-f4d6-5927-8fed-e205a233141a",
+                "trip_duration": 600,
+                "trip_distance": 3000,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.358431,
+                                    52.497288
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571315000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.350311,
+                                    52.500028
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571861000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580571315000,
+                "end_time": 1580571861000
+            },
+            {
+                "provider_id": "264aad41-b47c-415d-8585-0208d436516e",
+                "provider_name": "Tier",
+                "device_id": "22c081c5-d10b-4597-8592-bf8328080298",
+                "vehicle_id": "222722",
+                "vehicle_type": "scooter",
+                "propulsion_type": [
+                    "electric"
+                ],
+                "trip_id": "28381584-430e-5daa-bcd2-2145b42d5b32",
+                "trip_duration": 3840,
+                "trip_distance": 19200,
+                "route": {
+                    "type": "FeatureCollection",
+                    "features": [
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.372924,
+                                    52.507647
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580571404000
+                            }
+                        },
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    13.371945,
+                                    52.508707
+                                ]
+                            },
+                            "properties": {
+                                "timestamp": 1580575196000
+                            }
+                        }
+                    ]
+                },
+                "accuracy": 20,
+                "start_time": 1580571404000,
+                "end_time": 1580575196000
+            }
+        ]
+    },
+    "links": {
+        "first": "https://platform.tier-services.io/mds/BERLIN/trips?min_end_time=1580570757000&page[number]=1",
+        "last": "https://platform.tier-services.io/mds/BERLIN/trips?min_end_time=1580570757000&page[number]=1613",
+        "next": "https://platform.tier-services.io/mds/BERLIN/trips?min_end_time=1580570757000&page[number]=2",
+        "prev": null
+    }
+}
+
