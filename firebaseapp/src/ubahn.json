@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Jakon-Kaiser-Platz",
+        "lat": 52.536576,
+        "long": 13.294887,
+        "places_scooters": 4,
+        "scooters": 2,
+        "places_bikes": 20,
+        "bikes": 2,
+        "places_kick_scooters": 15,
+        "kick_scooters": 10,
+        "places_cars": 4,
+        "cars": 2,
+        "colour": "red",
+		"coordinates": [
+		{
+			"scooter":[
+			{
+				"lat": 52.536575,
+				"long": 13.294887
+			}
+			],
+			"kick_scooter":[
+			{
+				"lat": 52.536577,
+				"long": 13.294887
+			}
+			],
+			"bike":[
+			{
+				"lat": 52.536576,
+				"long": 13.294886
+			}
+			],
+			"car":[
+			{
+				"lat": 52.536576,
+				"long": 13.294888
+			}
+			]	
+		}
+		],
+        "notes": [
+            {
+                "message": "Bedarf Nextbike",
+                "info": "Automatische Übermittlung",
+                "time": ">2 min ago"
+            },
+            {
+                "message": "Parkplatz blockiert",
+                "info": "Automatische Übermittlung",
+                "time": "15 min ago"
+            },
+            {
+                "message": "Tagesstatistik verfügbar",
+                "time": "15.02.2020"
+            },
+            {
+                "message": "Parkplatz blockiert",
+                "time": ">2 min ago"
+            }
+        ]
+    },
+    {
+        "name": "Schönhauser Allee",
+        "lat": 52.549365,
+        "long": 13.416789,
+        "places_scooters": 5,
+        "scooters": 4,
+        "places_bikes": 15,
+        "bikes": 11,
+        "places_kick_scooters": 15,
+        "kick_scooters": 11,
+        "places_cars": 4,
+        "cars": 2,
+        "colour": "green",
+		"coordinates": [
+		{
+			"scooter":[
+			{
+				"lat": 52.549366,
+				"long": 13.416788
+			}
+			],
+			"kick_scooter":[
+			{
+				"lat": 52.549365,
+				"long": 13.416789
+			}
+			],
+			"bike":[
+			{
+				"lat": 52.549364,
+				"long": 13.416789
+			}
+			],
+			"car":[
+			{
+				"lat": 52.549365,
+				"long": 13.416788
+			}
+			]	
+		}
+		],
+        "notes": []
+    },
+    {
+        "name": "Prinzenstraße",
+        "lat": 52.498696,
+        "long": 13.407794,
+        "places_scooters": 4,
+        "scooters": 3,
+        "places_bikes": 15,
+        "bikes": 14,
+        "places_kick_scooters": 15,
+        "kick_scooters": 12,
+        "places_cars": 2,
+        "cars": 2,
+        "colour": "green",
+		"coordinates": [
+		{
+			"scooter":[
+			{
+				"lat": 52.498696,
+				"long": 13.407794
+			}
+			],
+			"kick_scooter":[
+			{
+				"lat": 52.498695,
+				"long": 13.407794
+			}
+			],
+			"bike":[
+			{
+				"lat": 52.498696,
+				"long": 13.407795
+			}
+			],
+			"car":[
+			{
+				"lat": 52.498697,
+				"long": 13.407794
+			}
+			]	
+		}
+		],
+        "notes": [
+            {
+                "message": "Tagesstatistik verfügbar",
+                "time": "15.02.2020"
+            }
+        ]
+    },
+    {
+        "name": "Ullsteinstraße",
+        "lat": 52.453006,
+        "long": 13.385887,
+        "places_scooters": 4,
+        "scooters": 4,
+        "places_bikes": 10,
+        "bikes": 4,
+        "places_kick_scooters": 15,
+        "kick_scooters": 0,
+        "places_cars": 4,
+        "cars": 1,
+        "colour": "red",
+		"coordinates": [
+		{
+			"scooter":[
+			{
+				"lat": 52.453006,
+				"long": 13.385886
+			}
+			],
+			"kick_scooter":[
+			],
+			"bike":[
+			{
+				"lat": 52.453006,
+				"long": 13.385888
+			}
+			],
+			"car":[
+			{
+				"lat": 52.453005,
+				"long": 13.385887
+			}
+			]	
+		}
+		],
+        "notes": [
+            {
+                "message": "Bedarf Tier",
+                "info": "Automatische Übermittlung",
+                "time": ">4 min ago"
+            },
+            {
+                "message": "Tagesstatistik verfügbar",
+                "time": "15.02.2020"
+            }
+        ]
+    },
+    {
+        "name": "Breitenbachplatz",
+        "lat": 52.4669416,
+        "long": 13.3064774,
+        "places_scooters": 7,
+        "scooters": 5,
+        "places_bikes": 10,
+        "bikes": 5,
+        "places_kick_scooters": 15,
+        "kick_scooters": 10,
+        "places_cars": 5,
+        "cars": 1,
+        "colour": "yellow",
+		"coordinates": [
+		{
+			"scooter":[
+			{
+				"lat": 52.498695,
+				"long": 13.407794
+			}
+			],
+			"kick_scooter":[
+			{
+				"lat": 52.498695,
+				"long": 13.407794
+			}
+			],
+			"bike":[
+			{
+				"lat": 52.498696,
+				"long": 13.407794
+			}
+			],
+			"car":[
+			{
+				"lat": 52.498696,
+				"long": 13.407794
+			}
+			]	
+		}
+		],
+        "notes": [
+            {
+                "message": "Bedarf Miles",
+                "info": "Automatische Übermittlung",
+                "time": ">2 min ago"
+            }
+        ]
+    },
+    {
+        "name": "Nollendorfplatz",
+        "lat": 52.499206,
+        "long": 13.353463,
+        "places_scooters": 4,
+        "scooters": 3,
+        "places_bikes": 25,
+        "bikes": 20,
+        "places_kick_scooters": 15,
+        "kick_scooters": 10,
+        "places_cars": 4,
+        "cars": 4,
+        "colour": "yellow",
+		"coordinates": [
+		{
+			"scooter":[
+			{
+				"lat": 52.499207,
+				"long": 13.353464
+			}
+			],
+			"kick_scooter":[
+			{
+				"lat": 52.499206,
+				"long": 13.353464
+			}
+			],
+			"bike":[
+			{
+				"lat": 52.499205,
+				"long": 13.353463
+			}
+			],
+			"car":[
+			{
+				"lat": 52.499206,
+				"long": 13.353462
+			}
+			]	
+		}
+		],
+        "notes": [
+            {
+                "message": "Keine freien Parkplätze für Miles",
+                "info": "Automatische Übermittlung",
+                "time": "6 min ago"
+            }
+        ]
+    }
+]
