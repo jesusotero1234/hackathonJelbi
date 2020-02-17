@@ -23,12 +23,12 @@ import API from './API'
 
 // ASSETS
 import Warnimage from './assets/warning.png'
-import KickScooter from './assets/kickscooter.png'
-import EScooter from './assets/scooter.png'
-import Car from './assets/car.png'
-import Bike from './assets/bike.png'
-import Weather from './assets/weather.png'
-import Foot from './assets/foot.png'
+import KickScooter from './assets/kickscooter2.png'
+import EScooter from './assets/scooter2.png'
+import Car from './assets/car2.png'
+import Bike from './assets/bike2.png'
+import Weather from './assets/weather3.png'
+import Foot from './assets/foot2.png'
 
 // Imnport Data
 
@@ -130,7 +130,7 @@ class ReactGoogleMaps extends React.Component {
 						const sharingOptions = station["coordinates"][key]
 						Object.keys(sharingOptions).forEach((thirdKey) => {
 							// console.log(sharingOptions[thirdKey])
-							if (sharingOptions[thirdKey][0] && sharingOptions[thirdKey][0].lat && sharingOptions[thirdKey][0].long){
+							if (sharingOptions[thirdKey][0] && sharingOptions[thirdKey][0].lat && sharingOptions[thirdKey][0].long) {
 								markers.push({ lat: sharingOptions[thirdKey][0].lat, lng: sharingOptions[thirdKey][0].long })
 							}
 						})
@@ -189,24 +189,24 @@ class ReactGoogleMaps extends React.Component {
 											<Card.Body style={{ display: "flex", flexDirection: "column", flex: "1", alignItems: "center" }}>
 												<div style={{ display: "flex", flex: 1 }}>
 													<div style={{ display: "flex", flex: 1 }} className="contentImg" style={{ backgroundImage: `url(${KickScooter})` }}>
-
+														<div className="zusatzInfo"> Bestand: {e.kick_scooters} / Bedarf: {index % 2 === 0 ? e.kick_scooters + 2 : e.kick_scooters - 2} / Kapazität: {e.places_kick_scooters} </div>
 													</div>
 													<div style={{ display: "flex", flex: 1 }} className="contentImg" style={{ backgroundImage: `url(${EScooter})` }}>
-
+														<div className="zusatzInfo">Bestand: {e.scooters} /  Bedarf: {index % 2 === 0 ? e.scooters + 2 : e.scooters - 2} / Kapazität: {e.places_scooters}</div>
 													</div>
 													<div style={{ display: "flex", flex: 1 }} className="contentImg" style={{ backgroundImage: `url(${Foot})` }}>
-
+														{/* <div className="zusatzInfo">{e.kick_scooters} / {e.places_kick_scooters}</div> */}
 													</div>
 												</div>
 												<div style={{ display: "flex", flex: 1 }}>
 													<div style={{ display: "flex", flex: 1 }} className="contentImg" style={{ backgroundImage: `url(${Bike})` }}>
-
+														<div className="zusatzInfo"> Bestand:{e.bikes} /Bedarf:  {index % 2 === 0 ? e.bikes + 2 : e.bikes - 2}  / Kapazität: {e.places_bikes}</div>
 													</div>
 													<div style={{ display: "flex", flex: 1 }} className="contentImg" style={{ backgroundImage: `url(${Car})` }}>
-
+														<div className="zusatzInfo"> Bestand:{e.cars} / Bedarf:  {index % 2 === 0 ? e.cars + 2 : e.cars - 2}  / Kapazität: {e.places_cars} </div>
 													</div>
 													<div style={{ display: "flex", flex: 1 }} className="contentImg" style={{ backgroundImage: `url(${Weather})` }}>
-
+														{/* <div className="zusatzInfo">{e.kick_scooters} / {e.places_kick_scooters}</div> */}
 													</div>
 												</div>
 											</Card.Body>

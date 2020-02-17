@@ -121,6 +121,13 @@
   
 }
 
+.zusatzInfo {
+  position: absolute;
+  bottom:-15px;
+  text-align: center;
+  width: 100%;
+  font-size: 9pt;
+}
 
 .warnImage {
   width: 30px;
@@ -147,7 +154,9 @@
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-  width: 200px;
-  height: 200px;
+  width: 220px;
+  position: relative;
+  height: 220px;
+  margin: 20px;
 }
 
